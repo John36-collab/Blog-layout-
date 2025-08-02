@@ -108,27 +108,6 @@ Footer – copyright, contact
 
 
 
----
-
-🛠️ Customization
-
-You can customize:
-
-Color scheme and typography
-
-Blog title and tagline
-
-Author info or bio
-
-Post layout (image-first, text-first, etc.)
-
-
-
----
-
-📷 Screenshots
-
-> (Insert screenshots or UI previews here)
 
 
 
@@ -139,9 +118,9 @@ Post layout (image-first, text-first, etc.)
 
 Questions or suggestions?
 
-GitHub: @yourusername
+GitHub: John36-collab 
 
-Email: yourname@example.com
+Email: cnwafor435@gmail.com 
 
 
 
@@ -151,8 +130,4 @@ Email: yourname@example.com
 
 This project is licensed under the MIT License.
 
-
----
-
-Let me know if you'd like a version tailored for static site generators (like Jekyll or Hugo), or with CMS integration notes.
 
