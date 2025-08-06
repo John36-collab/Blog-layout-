@@ -1,6 +1,4 @@
-# Blog-layout-
-A structure of blog page design to organize content clearly 
-Sure! Below is a README.md template for a small blog layout project, focusing on syntax and structure only—no actual code:
+---# Blog-layout page
 
 
 ---
